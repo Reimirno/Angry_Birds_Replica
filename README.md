@@ -20,11 +20,14 @@ Angry Birds Replica is a project that aims to reproduce the famous game, Angry B
 ## To-dos
 To-dos (code side):
 - [x] Create basic gameplay
-- [x] Create UI and effects
+- [x] Create UI system
+- [x] Create effect handling system
+- [x] Implement scriptable objects for level and game item data
 - [x] Create damage detection and calculation system
-- [x] Create save, scoring and star system
+- [x] Create basic save, scoring and star system
 - [x] Implement async loading of scenes and resources
 - [ ] Implement object pooling
+- [ ] Implement JSON for a more reliable saving system
 - [ ] Implement camera follow
 - [ ] Create more types of birds and pigs beyond the basic ones
 - [ ] Implement audio system
@@ -39,7 +42,9 @@ To-dos (admin side):
 
 ## Installation
 
-Clone the repository and add that folder to Unity Hub and open it. If prompted to install the relevant version of Unity or relevant packages, do it.
+- Clone this repository.
+- Add the repository folder to Unity Hub and open it.
+- If prompted to install the relevant version of Unity or relevant packages, do it.
 
 ## Codebase Structure
 
