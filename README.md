@@ -28,6 +28,7 @@ To-dos (code side):
 - [ ] Implement camera follow
 - [ ] Create more types of birds and pigs beyond the basic ones
 - [ ] Implement audio system
+- [ ] Transfer to new input system and support mobile control
 - [ ] Make tools for better level design
 
 To-dos (admin side):
@@ -38,7 +39,7 @@ To-dos (admin side):
 
 ## Installation
 
-To be updated.
+Clone the repository and add that folder to Unity Hub and open it. If prompted to install the relevant version of Unity or relevant packages, do it.
 
 ## Codebase Structure
 
