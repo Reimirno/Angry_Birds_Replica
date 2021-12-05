@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: WoodWedge
+  m_Controller: {fileID: 9100000, guid: 3a0875bf028169c438e0b86b6da226e0, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 0cf99ad32cdcf534384788d6b589b9a2, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 30139fbaf821334468d0605fcf76c4d3, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 696b3136985b1584db080a0411e67e5c, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 66f79ea0b98655044ad3926055c58486, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 63d8d6c1e2885e04bab8b2de8fd6ca76, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 0baedd4c50153a341a0d802a73346f7b, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 9a7e01da50414ff428d1ec12d111c765, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 90a6cd9453562bb419a7e35199d34fa3, type: 2}

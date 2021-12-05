@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: BlueBird
+  m_Controller: {fileID: 9100000, guid: 6606488c740ba44449855f5c8deec0bc, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 5c1abe9584c9ee14195cf54ce224db5c, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 0f1c9433ffcaaed43914c2df50316a24, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: ceb28469f0030ec499053a055f5df735, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: ceb28469f0030ec499053a055f5df735, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 0f1c9433ffcaaed43914c2df50316a24, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 0f1c9433ffcaaed43914c2df50316a24, type: 2}

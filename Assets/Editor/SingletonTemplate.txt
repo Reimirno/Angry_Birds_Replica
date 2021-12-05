@@ -1,0 +1,10 @@
+#HEADER#
+using UnityEngine;
+
+namespace #NAMESPACE# 
+{
+    public class #SCRIPTNAME#: GenericSingleton<#SCRIPTNAME#>
+    {
+		
+    }
+}

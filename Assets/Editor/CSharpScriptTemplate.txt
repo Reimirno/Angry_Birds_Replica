@@ -1,0 +1,8 @@
+#HEADER#
+namespace #NAMESPACE# 
+{
+    public class #SCRIPTNAME#
+    {
+
+    }
+}

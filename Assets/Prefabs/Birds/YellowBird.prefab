@@ -1,0 +1,105 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &2483039460178754443
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 8020711746597591058, guid: 79b0f1c1b5fd3274d8f44d3fbc5febba, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: -1053045206675343816, guid: 6727d56126e40ea46870d9300bf32b8a, type: 3}
+    - target: {fileID: 8020711746597591059, guid: 79b0f1c1b5fd3274d8f44d3fbc5febba, type: 3}
+      propertyPath: m_Name
+      value: YellowBird
+      objectReference: {fileID: 0}
+    - target: {fileID: 8020711746597591069, guid: 79b0f1c1b5fd3274d8f44d3fbc5febba, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8020711746597591069, guid: 79b0f1c1b5fd3274d8f44d3fbc5febba, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8020711746597591069, guid: 79b0f1c1b5fd3274d8f44d3fbc5febba, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8020711746597591069, guid: 79b0f1c1b5fd3274d8f44d3fbc5febba, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8020711746597591069, guid: 79b0f1c1b5fd3274d8f44d3fbc5febba, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8020711746597591069, guid: 79b0f1c1b5fd3274d8f44d3fbc5febba, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8020711746597591069, guid: 79b0f1c1b5fd3274d8f44d3fbc5febba, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8020711746597591069, guid: 79b0f1c1b5fd3274d8f44d3fbc5febba, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8020711746597591069, guid: 79b0f1c1b5fd3274d8f44d3fbc5febba, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8020711746597591069, guid: 79b0f1c1b5fd3274d8f44d3fbc5febba, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8020711746597591069, guid: 79b0f1c1b5fd3274d8f44d3fbc5febba, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8020711746597591070, guid: 79b0f1c1b5fd3274d8f44d3fbc5febba, type: 3}
+      propertyPath: birdType
+      value: 1
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 8020711746597591065, guid: 79b0f1c1b5fd3274d8f44d3fbc5febba, type: 3}
+  m_SourcePrefab: {fileID: 100100000, guid: 79b0f1c1b5fd3274d8f44d3fbc5febba, type: 3}
+--- !u!1 &5564986708417307544 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 8020711746597591059, guid: 79b0f1c1b5fd3274d8f44d3fbc5febba, type: 3}
+  m_PrefabInstance: {fileID: 2483039460178754443}
+  m_PrefabAsset: {fileID: 0}
+--- !u!60 &8988569628207474970
+PolygonCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5564986708417307544}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 0.58, y: 0.54}
+    newSize: {x: 0.49, y: 0.45}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  m_Points:
+    m_Paths:
+    - - {x: -0.16286813, y: -0.029908417}
+      - {x: -0.23395093, y: -0.22251539}
+      - {x: -0.12750947, y: -0.25787407}
+      - {x: 0.17817944, y: -0.25560665}
+      - {x: 0.27395093, y: -0.21884659}
+      - {x: 0.16300175, y: 0.0012634955}
+      - {x: -0.0065030865, y: 0.2022495}

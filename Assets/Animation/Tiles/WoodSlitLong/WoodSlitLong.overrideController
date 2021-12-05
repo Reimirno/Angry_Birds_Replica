@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: WoodSlitLong
+  m_Controller: {fileID: 9100000, guid: 3a0875bf028169c438e0b86b6da226e0, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 0cf99ad32cdcf534384788d6b589b9a2, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: a07bf8d3b9aeb0e41b28eb8562bfb681, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 63d8d6c1e2885e04bab8b2de8fd6ca76, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 94b8274778e5c394b909a819e2b4e172, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 9a7e01da50414ff428d1ec12d111c765, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: c7240b2b4f744b0408afd16d22b569c3, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 696b3136985b1584db080a0411e67e5c, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: f769e8472ca11e14984aa88256585e13, type: 2}
