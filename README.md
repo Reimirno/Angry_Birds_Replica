@@ -7,6 +7,16 @@
 
 Angry Birds Replica is a project that aims to reproduce the famous game, Angry Birds, from scratch. This is a practice project and I own none of the artwork or backstory design. I made it public hoping you also have something to learn from it. Enjoy it!
 
+![Game Screenshot 1](/GitHub/Images/CG1.png?raw=true)
+<p align="center">
+<img src="/GitHub/Images/CG2.png?raw=true" width="45%">
+<img src="/GitHub/Images/CG3.png?raw=true" width="45%">
+<img src="/GitHub/Images/CG4.png?raw=true" width="45%">
+<img src="/GitHub/Images/CG5.png?raw=true" width="45%">
+<img src="/GitHub/Images/CG6.png?raw=true" width="45%">
+<img src="/GitHub/Images/CG7.png?raw=true" width="45%">
+</p>
+
 ## To-dos
 To-dos (code side):
 - [x] Create basic gameplay
